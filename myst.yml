@@ -4,7 +4,6 @@ project:
   title: Thermolab
   authors: 
     - name: Chinming Zhu
-    - name: partner
 
   date: 2025-11-05
   github: https://github.com/Contemporary-Physicslab/thermolab # Change this URL to your GitHub repository

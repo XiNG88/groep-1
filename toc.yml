@@ -35,10 +35,10 @@ project:
     - title: Simulaties
       file: Content/PySim/uitleg.md
       children:
-        - file: Content/PySim/1_intro_sim.ipynb
-        - file: Content/PySim/2_deeltjes_model.ipynb
-        - file: Content/PySim/3_recap.ipynb
-        - file: Content/PySim/4_brownianmotion.ipynb
+        - file: Content/PySim/1_intro_sim_complete.ipynb
+        - file: Content/PySim/2_deeltjes_model_complete.ipynb
+        - file: Content/PySim/3_recap_complete.ipynb
+        - file: Content/PySim/4_brownianmotion_complete.ipynb
         # - file: Content/PySim/5_druktemp.ipynb
         # - file: Content/PySim/6_boltzmann.ipynb
         # - file: Content/PySim/7_arbeid.ipynb
